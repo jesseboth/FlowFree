@@ -1,0 +1,751 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.20)  27 APR 2021 20:28
+entering extended mode
+**./Latex/documentation.tex
+(Latex/documentation.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen141
+\Hy@linkcounter=\count185
+\Hy@pagecounter=\count186
+ (C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count187
+Package hyperref Info: Hyper figures OFF on input line 4464.
+Package hyperref Info: Link nesting OFF on input line 4469.
+Package hyperref Info: Hyper index ON on input line 4472.
+Package hyperref Info: Plain pages OFF on input line 4479.
+Package hyperref Info: Backreferencing OFF on input line 4484.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4717.
+\c@Hy@tempcnt=\count188
+ (C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5076.
+\XeTeXLinkMargin=\dimen142
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count189
+\Field@Width=\dimen143
+\Fld@charsize=\dimen144
+Package hyperref Info: Hyper figures OFF on input line 6347.
+Package hyperref Info: Link nesting OFF on input line 6352.
+Package hyperref Info: Hyper index ON on input line 6355.
+Package hyperref Info: backreferencing OFF on input line 6362.
+Package hyperref Info: Link coloring OFF on input line 6367.
+Package hyperref Info: Link coloring with OCG OFF on input line 6372.
+Package hyperref Info: PDF/A mode OFF on input line 6377.
+LaTeX Info: Redefining \ref on input line 6417.
+LaTeX Info: Redefining \pageref on input line 6421.
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count190
+\c@Item=\count191
+\c@Hfootnote=\count192
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count193
+\c@bookmark@seq@number=\count194
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 11.
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-01-09 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count195
+\l__pdf_internal_box=\box47
+) (documentation.aux)
+\openout1 = `documentation.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count196
+\scratchdimen=\dimen145
+\scratchbox=\box48
+\nofMPsegments=\count197
+\nofMParguments=\count198
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count199
+\MPscratchDim=\dimen146
+\MPnumerator=\count266
+\makeMPintoPDFobject=\count267
+\everyMPtoPDFconversion=\toks19
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 18.
+ (C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\jesse\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count268
+)
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
+ (documentation.out) (documentation.out)
+\@outlinefile=\write3
+\openout3 = `documentation.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <24.88> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+{C:/Users/jesse/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(documentation.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+ [2])
+\tf@toc=\write4
+\openout4 = `documentation.toc'.
+
+ [3] [4]
+<Flowcharts/images//links.png, id=391, 312.16624pt x 161.60374pt>
+File: Flowcharts/images//links.png Graphic file (type png)
+<use Flowcharts/images//links.png>
+Package pdftex.def Info: Flowcharts/images//links.png  used on input line 67.
+(pdftex.def)             Requested size: 164.88525pt x 85.35826pt.
+<Flowcharts/images//lab6.png, id=393, 149.55875pt x 561.09625pt>
+File: Flowcharts/images//lab6.png Graphic file (type png)
+<use Flowcharts/images//lab6.png>
+Package pdftex.def Info: Flowcharts/images//lab6.png  used on input line 74.
+(pdftex.def)             Requested size: 60.67137pt x 227.62204pt.
+ [5 <./Flowcharts/images//links.png> <./Flowcharts/images//lab6.png>]
+<Flowcharts/images//init_game.png, id=400, 121.45375pt x 683.55376pt>
+File: Flowcharts/images//init_game.png Graphic file (type png)
+<use Flowcharts/images//init_game.png>
+Package pdftex.def Info: Flowcharts/images//init_game.png  used on input line 8
+2.
+(pdftex.def)             Requested size: 45.50055pt x 256.0748pt.
+ [6 <./Flowcharts/images//init_game.png>]
+<Flowcharts/images//reset_game.png, id=406, 121.45375pt x 763.85374pt>
+File: Flowcharts/images//reset_game.png Graphic file (type png)
+<use Flowcharts/images//reset_game.png>
+Package pdftex.def Info: Flowcharts/images//reset_game.png  used on input line 
+90.
+(pdftex.def)             Requested size: 45.23924pt x 284.52756pt.
+ [7 <./Flowcharts/images//reset_game.png>]
+<Flowcharts/images//move_cursor.png, id=413, 237.88875pt x 825.0825pt>
+File: Flowcharts/images//move_cursor.png Graphic file (type png)
+<use Flowcharts/images//move_cursor.png>
+Package pdftex.def Info: Flowcharts/images//move_cursor.png  used on input line
+ 99.
+(pdftex.def)             Requested size: 82.0354pt x 284.52756pt.
+<Flowcharts/images//put_time.png, id=414, 121.45375pt x 362.35374pt>
+File: Flowcharts/images//put_time.png Graphic file (type png)
+<use Flowcharts/images//put_time.png>
+Package pdftex.def Info: Flowcharts/images//put_time.png  used on input line 10
+6.
+(pdftex.def)             Requested size: 47.68365pt x 142.26378pt.
+ [8 <./Flowcharts/images//move_cursor.png> <./Flowcharts/images//put_time.png>]
+<Flowcharts/images//place_text.png, id=421, 121.45375pt x 523.9575pt>
+File: Flowcharts/images//place_text.png Graphic file (type png)
+<use Flowcharts/images//place_text.png>
+Package pdftex.def Info: Flowcharts/images//place_text.png  used on input line 
+116.
+(pdftex.def)             Requested size: 46.16771pt x 199.16928pt.
+<Flowcharts/images//color_text.png, id=422, 121.45375pt x 282.05376pt>
+File: Flowcharts/images//color_text.png Graphic file (type png)
+<use Flowcharts/images//color_text.png>
+Package pdftex.def Info: Flowcharts/images//color_text.png  used on input line 
+124.
+(pdftex.def)             Requested size: 49.00687pt x 113.81102pt.
+ [9 <./Flowcharts/images//place_text.png> <./Flowcharts/images//color_text.png>
+]
+<Flowcharts/images//modify_cursor_two.png, id=429, 121.45375pt x 201.75375pt>
+File: Flowcharts/images//modify_cursor_two.png Graphic file (type png)
+<use Flowcharts/images//modify_cursor_two.png>
+Package pdftex.def Info: Flowcharts/images//modify_cursor_two.png  used on inpu
+t line 132.
+(pdftex.def)             Requested size: 59.94835pt x 99.58464pt.
+<Flowcharts/images//timer_to_string.png, id=430, 121.45375pt x 443.6575pt>
+File: Flowcharts/images//timer_to_string.png Graphic file (type png)
+<use Flowcharts/images//timer_to_string.png>
+Package pdftex.def Info: Flowcharts/images//timer_to_string.png  used on input 
+line 140.
+(pdftex.def)             Requested size: 54.52208pt x 199.16928pt.
+ [10 <./Flowcharts/images//modify_cursor_two.png> <./Flowcharts/images//timer_t
+o_string.png>]
+<Flowcharts/images//store_pos.png, id=437, 121.45375pt x 522.95375pt>
+File: Flowcharts/images//store_pos.png Graphic file (type png)
+<use Flowcharts/images//store_pos.png>
+Package pdftex.def Info: Flowcharts/images//store_pos.png  used on input line 1
+49.
+(pdftex.def)             Requested size: 52.8653pt x 227.62204pt.
+ [11 <./Flowcharts/images//store_pos.png>]
+<Flowcharts/images//show_link.png, id=443, 159.59625pt x 633.36626pt>
+File: Flowcharts/images//show_link.png Graphic file (type png)
+<use Flowcharts/images//show_link.png>
+Package pdftex.def Info: Flowcharts/images//show_link.png  used on input line 1
+58.
+(pdftex.def)             Requested size: 64.52652pt x 256.0748pt.
+ [12 <./Flowcharts/images//show_link.png>]
+<Flowcharts/images//link_char.png, id=449, 332.24126pt x 774.895pt>
+File: Flowcharts/images//link_char.png Graphic file (type png)
+<use Flowcharts/images//link_char.png>
+Package pdftex.def Info: Flowcharts/images//link_char.png  used on input line 1
+66.
+(pdftex.def)             Requested size: 121.99452pt x 284.52756pt.
+ [13 <./Flowcharts/images//link_char.png>]
+<Flowcharts/images//show_plus.png, id=456, 158.5925pt x 472.76625pt>
+File: Flowcharts/images//show_plus.png Graphic file (type png)
+<use Flowcharts/images//show_plus.png>
+Package pdftex.def Info: Flowcharts/images//show_plus.png  used on input line 1
+74.
+(pdftex.def)             Requested size: 76.35825pt x 227.62204pt.
+<Flowcharts/images//clear_links.png, id=457, 121.45375pt x 282.05376pt>
+File: Flowcharts/images//clear_links.png Graphic file (type png)
+<use Flowcharts/images//clear_links.png>
+Package pdftex.def Info: Flowcharts/images//clear_links.png  used on input line
+ 181.
+(pdftex.def)             Requested size: 61.26044pt x 142.26378pt.
+ [14 <./Flowcharts/images//show_plus.png> <./Flowcharts/images//clear_links.png
+>]
+<Flowcharts/images//clear_color_links.png, id=464, 207.77625pt x 794.97pt>
+File: Flowcharts/images//clear_color_links.png Graphic file (type png)
+<use Flowcharts/images//clear_color_links.png>
+Package pdftex.def Info: Flowcharts/images//clear_color_links.png  used on inpu
+t line 190.
+(pdftex.def)             Requested size: 74.36504pt x 284.52756pt.
+ [15 <./Flowcharts/images//clear_color_links.png>]
+<Flowcharts/images//clear_pos_links.png, id=470, 259.97125pt x 995.72pt>
+File: Flowcharts/images//clear_pos_links.png Graphic file (type png)
+<use Flowcharts/images//clear_pos_links.png>
+Package pdftex.def Info: Flowcharts/images//clear_pos_links.png  used on input 
+line 201.
+(pdftex.def)             Requested size: 89.14671pt x 341.43306pt.
+ [16 <./Flowcharts/images//clear_pos_links.png>]
+<Flowcharts/images//replace_links.png, id=476, 519.9425pt x 1417.295pt>
+File: Flowcharts/images//replace_links.png Graphic file (type png)
+<use Flowcharts/images//replace_links.png>
+Package pdftex.def Info: Flowcharts/images//replace_links.png  used on input li
+ne 210.
+(pdftex.def)             Requested size: 146.13033pt x 398.33858pt.
+ [17 <./Flowcharts/images//replace_links.png>]
+<Flowcharts/images//check_start.png, id=482, 333.245pt x 693.59125pt>
+File: Flowcharts/images//check_start.png Graphic file (type png)
+<use Flowcharts/images//check_start.png>
+Package pdftex.def Info: Flowcharts/images//check_start.png  used on input line
+ 219.
+(pdftex.def)             Requested size: 136.7076pt x 284.52756pt.
+
+[18 <./Flowcharts/images//check_start.png>]
+<Flowcharts/images//Timer_Handler.png, id=488, 149.55875pt x 634.37pt>
+File: Flowcharts/images//Timer_Handler.png Graphic file (type png)
+<use Flowcharts/images//Timer_Handler.png>
+Package pdftex.def Info: Flowcharts/images//Timer_Handler.png  used on input li
+ne 227.
+(pdftex.def)             Requested size: 60.3724pt x 256.0748pt.
+ [19 <./Flowcharts/images//Timer_Handler.png>]
+<Flowcharts/images//Switch_Handler.png, id=495, 402.50375pt x 894.34125pt>
+File: Flowcharts/images//Switch_Handler.png Graphic file (type png)
+<use Flowcharts/images//Switch_Handler.png>
+Package pdftex.def Info: Flowcharts/images//Switch_Handler.png  used on input l
+ine 235.
+(pdftex.def)             Requested size: 153.66545pt x 341.43306pt.
+ [20 <./Flowcharts/images//Switch_Handler.png>]
+<Flowcharts/images//UART0_Handler.png, id=501, 1176.395pt x 1547.7825pt>
+File: Flowcharts/images//UART0_Handler.png Graphic file (type png)
+<use Flowcharts/images//UART0_Handler.png>
+Package pdftex.def Info: Flowcharts/images//UART0_Handler.png  used on input li
+ne 246.
+(pdftex.def)             Requested size: 346.01036pt x 455.24408pt.
+
+Overfull \hbox (1.01036pt too wide) in paragraph at lines 246--247
+ [] 
+ []
+
+[21 <./Flowcharts/images//UART0_Handler.png>]
+<Flowcharts/images//make_title.png, id=507, 121.45375pt x 402.50375pt>
+File: Flowcharts/images//make_title.png Graphic file (type png)
+<use Flowcharts/images//make_title.png>
+Package pdftex.def Info: Flowcharts/images//make_title.png  used on input line 
+258.
+(pdftex.def)             Requested size: 51.51244pt x 170.71652pt.
+ [22 <./Flowcharts/images//make_title.png>]
+<Flowcharts/images//make_pause.png, id=513, 578.16pt x 924.45375pt>
+File: Flowcharts/images//make_pause.png Graphic file (type png)
+<use Flowcharts/images//make_pause.png>
+Package pdftex.def Info: Flowcharts/images//make_pause.png  used on input line 
+266.
+(pdftex.def)             Requested size: 195.74252pt x 312.9803pt.
+ [23 <./Flowcharts/images//make_pause.png>]
+<Flowcharts/images//make_end.png, id=519, 563.10374pt x 1044.90375pt>
+File: Flowcharts/images//make_end.png Graphic file (type png)
+<use Flowcharts/images//make_end.png>
+Package pdftex.def Info: Flowcharts/images//make_end.png  used on input line 27
+4.
+(pdftex.def)             Requested size: 214.66902pt x 398.33858pt.
+ [24 <./Flowcharts/images//make_end.png>]
+<Flowcharts/images//board.png, id=525, 1034.86626pt x 141.52875pt>
+File: Flowcharts/images//board.png Graphic file (type png)
+<use Flowcharts/images//board.png>
+Package pdftex.def Info: Flowcharts/images//board.png  used on input line 285.
+(pdftex.def)             Requested size: 416.08672pt x 56.9055pt.
+
+Overfull \hbox (71.08672pt too wide) in paragraph at lines 285--286
+ [] 
+ []
+
+<Flowcharts/images//board_out.png, id=526, 181.42781pt x 625.58719pt>
+File: Flowcharts/images//board_out.png Graphic file (type png)
+<use Flowcharts/images//board_out.png>
+Package pdftex.def Info: Flowcharts/images//board_out.png  used on input line 2
+92.
+(pdftex.def)             Requested size: 82.51932pt x 284.52756pt.
+[25 <./Flowcharts/images//board.png> <./Flowcharts/images//board_out.png>]
+<Flowcharts/images//reprint_board.png, id=534, 121.45375pt x 241.90375pt>
+File: Flowcharts/images//reprint_board.png Graphic file (type png)
+<use Flowcharts/images//reprint_board.png>
+Package pdftex.def Info: Flowcharts/images//reprint_board.png  used on input li
+ne 300.
+(pdftex.def)             Requested size: 49.99835pt x 99.58464pt.
+<Flowcharts/images//reset_subboard.png, id=535, 141.52875pt x 231.86626pt>
+File: Flowcharts/images//reset_subboard.png Graphic file (type png)
+<use Flowcharts/images//reset_subboard.png>
+Package pdftex.def Info: Flowcharts/images//reset_subboard.png  used on input l
+ine 307.
+(pdftex.def)             Requested size: 60.78706pt x 99.58464pt.
+
+[26 <./Flowcharts/images//reprint_board.png> <./Flowcharts/images//reset_subboa
+rd.png>]
+<Flowcharts/images//subboard.png, id=542, 171.64125pt x 141.52875pt>
+File: Flowcharts/images//subboard.png Graphic file (type png)
+<use Flowcharts/images//subboard.png>
+Package pdftex.def Info: Flowcharts/images//subboard.png  used on input line 31
+8.
+(pdftex.def)             Requested size: 138.03078pt x 113.81102pt.
+<Flowcharts/images//make_sub_board.png, id=543, 176.66pt x 743.77875pt>
+File: Flowcharts/images//make_sub_board.png Graphic file (type png)
+<use Flowcharts/images//make_sub_board.png>
+Package pdftex.def Info: Flowcharts/images//make_sub_board.png  used on input l
+ine 325.
+(pdftex.def)             Requested size: 74.33955pt x 312.9803pt.
+ [27 <./Flowcharts/images//subboard.png> <./Flowcharts/images//make_sub_board.p
+ng>]
+<Flowcharts/images//find_center.png, id=550, 121.45375pt x 201.75375pt>
+File: Flowcharts/images//find_center.png Graphic file (type png)
+<use Flowcharts/images//find_center.png>
+Package pdftex.def Info: Flowcharts/images//find_center.png  used on input line
+ 337.
+(pdftex.def)             Requested size: 51.38457pt x 85.35826pt.
+<Flowcharts/images//clear_sub_board.png, id=551, 176.66pt x 653.44125pt>
+File: Flowcharts/images//clear_sub_board.png Graphic file (type png)
+<use Flowcharts/images//clear_sub_board.png>
+Package pdftex.def Info: Flowcharts/images//clear_sub_board.png  used on input 
+line 343.
+(pdftex.def)             Requested size: 76.92195pt x 284.52756pt.
+ [28 <./Flowcharts/images//find_center.png> <./Flowcharts/images//clear_sub_boa
+rd.png>]
+<Flowcharts/images//check_move.png, id=558, 483.8075pt x 1155.31625pt>
+File: Flowcharts/images//check_move.png Graphic file (type png)
+<use Flowcharts/images//check_move.png>
+Package pdftex.def Info: Flowcharts/images//check_move.png  used on input line 
+352.
+(pdftex.def)             Requested size: 190.64047pt x 455.24408pt.
+ [29 <./Flowcharts/images//check_move.png>]
+<Flowcharts/images//check_spot.png, id=564, 363.3575pt x 392.46625pt>
+File: Flowcharts/images//check_spot.png Graphic file (type png)
+<use Flowcharts/images//check_spot.png>
+Package pdftex.def Info: Flowcharts/images//check_spot.png  used on input line 
+361.
+(pdftex.def)             Requested size: 184.40059pt x 199.16928pt.
+ [30 <./Flowcharts/images//check_spot.png>]
+<Flowcharts/images//get_subboard_ptr.png, id=570, 121.45375pt x 362.35374pt>
+File: Flowcharts/images//get_subboard_ptr.png Graphic file (type png)
+<use Flowcharts/images//get_subboard_ptr.png>
+Package pdftex.def Info: Flowcharts/images//get_subboard_ptr.png  used on input
+ line 369.
+(pdftex.def)             Requested size: 52.45203pt x 156.49014pt.
+<Flowcharts/images//place_link.png, id=571, 121.45375pt x 282.05376pt>
+File: Flowcharts/images//place_link.png Graphic file (type png)
+<use Flowcharts/images//place_link.png>
+Package pdftex.def Info: Flowcharts/images//place_link.png  used on input line 
+376.
+(pdftex.def)             Requested size: 49.00687pt x 113.81102pt.
+ [31 <./Flowcharts/images//get_subboard_ptr.png> <./Flowcharts/images//place_li
+nk.png>]
+<Flowcharts/images//get_color.png, id=579, 403.5075pt x 583.17876pt>
+File: Flowcharts/images//get_color.png Graphic file (type png)
+<use Flowcharts/images//get_color.png>
+Package pdftex.def Info: Flowcharts/images//get_color.png  used on input line 3
+84.
+(pdftex.def)             Requested size: 177.18674pt x 256.0748pt.
+ [32 <./Flowcharts/images//get_color.png>]
+<Flowcharts/images//get_cursor_pos.png, id=585, 362.35374pt x 532.99126pt>
+File: Flowcharts/images//get_cursor_pos.png Graphic file (type png)
+<use Flowcharts/images//get_cursor_pos.png>
+Package pdftex.def Info: Flowcharts/images//get_cursor_pos.png  used on input l
+ine 392.
+(pdftex.def)             Requested size: 154.74748pt x 227.62204pt.
+
+[33 <./Flowcharts/images//get_cursor_pos.png>]
+<Flowcharts/images//clear_pos_sub_board.png, id=591, 121.45375pt x 282.05376pt>
+
+File: Flowcharts/images//clear_pos_sub_board.png Graphic file (type png)
+<use Flowcharts/images//clear_pos_sub_board.png>
+Package pdftex.def Info: Flowcharts/images//clear_pos_sub_board.png  used on in
+put line 400.
+(pdftex.def)             Requested size: 49.00687pt x 113.81102pt.
+<Flowcharts/images//coord_to_byte.png, id=592, 122.4575pt x 282.05376pt>
+File: Flowcharts/images//coord_to_byte.png Graphic file (type png)
+<use Flowcharts/images//coord_to_byte.png>
+Package pdftex.def Info: Flowcharts/images//coord_to_byte.png  used on input li
+ne 407.
+(pdftex.def)             Requested size: 49.41188pt x 113.81102pt.
+<Flowcharts/images//byte_to_coord.png, id=593, 149.55875pt x 473.77pt>
+File: Flowcharts/images//byte_to_coord.png Graphic file (type png)
+<use Flowcharts/images//byte_to_coord.png>
+Package pdftex.def Info: Flowcharts/images//byte_to_coord.png  used on input li
+ne 413.
+(pdftex.def)             Requested size: 53.89131pt x 170.71652pt.
+ [34 <./Flowcharts/images//clear_pos_sub_board.png> <./Flowcharts/images//coord
+_to_byte.png> <./Flowcharts/images//byte_to_coord.png>]
+<Flowcharts/images//check_win.png, id=601, 338.26375pt x 503.8825pt>
+File: Flowcharts/images//check_win.png Graphic file (type png)
+<use Flowcharts/images//check_win.png>
+Package pdftex.def Info: Flowcharts/images//check_win.png  used on input line 4
+21.
+(pdftex.def)             Requested size: 152.80568pt x 227.62204pt.
+ [35 <./Flowcharts/images//check_win.png>]
+<Flowcharts/images//last_link.png, id=607, 351.3125pt x 1086.0575pt>
+File: Flowcharts/images//last_link.png Graphic file (type png)
+<use Flowcharts/images//last_link.png>
+Package pdftex.def Info: Flowcharts/images//last_link.png  used on input line 4
+30.
+(pdftex.def)             Requested size: 128.8525pt x 398.33858pt.
+ [36 <./Flowcharts/images//last_link.png>]
+<Flowcharts/images//modify_completed.png, id=613, 398.48875pt x 673.51625pt>
+File: Flowcharts/images//modify_completed.png Graphic file (type png)
+<use Flowcharts/images//modify_completed.png>
+Package pdftex.def Info: Flowcharts/images//modify_completed.png  used on input
+ line 449.
+(pdftex.def)             Requested size: 134.67567pt x 227.62204pt.
+ [37 <./Flowcharts/images//modify_completed.png>]
+<Flowcharts/images//output_completed.png, id=620, 251.94125pt x 472.76625pt>
+File: Flowcharts/images//output_completed.png Graphic file (type png)
+<use Flowcharts/images//output_completed.png>
+Package pdftex.def Info: Flowcharts/images//output_completed.png  used on input
+ line 458.
+(pdftex.def)             Requested size: 90.97556pt x 170.71652pt.
+<Flowcharts/images//clear_completed.png, id=621, 122.4575pt x 362.35374pt>
+File: Flowcharts/images//clear_completed.png Graphic file (type png)
+<use Flowcharts/images//clear_completed.png>
+Package pdftex.def Info: Flowcharts/images//clear_completed.png  used on input 
+line 465.
+(pdftex.def)             Requested size: 48.07774pt x 142.26378pt.
+
+[38 <./Flowcharts/images//output_completed.png> <./Flowcharts/images//clear_com
+pleted.png>]
+<Flowcharts/images//check_completed.png, id=628, 121.45375pt x 282.05376pt>
+File: Flowcharts/images//check_completed.png Graphic file (type png)
+<use Flowcharts/images//check_completed.png>
+Package pdftex.def Info: Flowcharts/images//check_completed.png  used on input 
+line 474.
+(pdftex.def)             Requested size: 49.00687pt x 113.81102pt.
+<Flowcharts/images//reprint_completed.png, id=629, 121.45375pt x 282.05376pt>
+File: Flowcharts/images//reprint_completed.png Graphic file (type png)
+<use Flowcharts/images//reprint_completed.png>
+Package pdftex.def Info: Flowcharts/images//reprint_completed.png  used on inpu
+t line 481.
+(pdftex.def)             Requested size: 49.00687pt x 113.81102pt.
+ [39 <./Flowcharts/images//check_completed.png> <./Flowcharts/images//reprint_c
+ompleted.png>]
+<Flowcharts/images//read_character.png, id=636, 121.45375pt x 302.12875pt>
+File: Flowcharts/images//read_character.png Graphic file (type png)
+<use Flowcharts/images//read_character.png>
+Package pdftex.def Info: Flowcharts/images//read_character.png  used on input l
+ine 495.
+(pdftex.def)             Requested size: 57.18889pt x 142.26378pt.
+ [40 <./Flowcharts/images//read_character.png>]
+<Flowcharts/images//output_char.png, id=642, 310.15875pt x 522.95375pt>
+File: Flowcharts/images//output_char.png Graphic file (type png)
+<use Flowcharts/images//output_char.png>
+Package pdftex.def Info: Flowcharts/images//output_char.png  used on input line
+ 504.
+(pdftex.def)             Requested size: 168.75157pt x 284.52756pt.
+
+[41 <./Flowcharts/images//output_char.png>]
+<Flowcharts/images//output_string.png, id=648, 390.45876pt x 462.72874pt>
+File: Flowcharts/images//output_string.png Graphic file (type png)
+<use Flowcharts/images//output_string.png>
+Package pdftex.def Info: Flowcharts/images//output_string.png  used on input li
+ne 513.
+(pdftex.def)             Requested size: 216.08159pt x 256.0748pt.
+ [42 <./Flowcharts/images//output_string.png>]
+<Flowcharts/images//read_string.png, id=654, 430.60875pt x 613.29124pt>
+File: Flowcharts/images//read_string.png Graphic file (type png)
+<use Flowcharts/images//read_string.png>
+Package pdftex.def Info: Flowcharts/images//read_string.png  used on input line
+ 523.
+(pdftex.def)             Requested size: 199.77104pt x 284.52756pt.
+ [43 <./Flowcharts/images//read_string.png>]
+<Flowcharts/images//illuminate_RGB_LED.png, id=661, 121.45375pt x 502.87875pt>
+File: Flowcharts/images//illuminate_RGB_LED.png Graphic file (type png)
+<use Flowcharts/images//illuminate_RGB_LED.png>
+Package pdftex.def Info: Flowcharts/images//illuminate_RGB_LED.png  used on inp
+ut line 535.
+(pdftex.def)             Requested size: 41.2307pt x 170.71652pt.
+ [44 <./Flowcharts/images//illuminate_RGB_LED.png>]
+<Flowcharts/images//read_from_push_btn.png, id=667, 362.35374pt x 623.32875pt>
+File: Flowcharts/images//read_from_push_btn.png Graphic file (type png)
+<use Flowcharts/images//read_from_push_btn.png>
+Package pdftex.def Info: Flowcharts/images//read_from_push_btn.png  used on inp
+ut line 542.
+(pdftex.def)             Requested size: 198.48239pt x 341.43306pt.
+ [45 <./Flowcharts/images//read_from_push_btn.png>]
+File: Flowcharts/images//illuminate_RGB_LED.png Graphic file (type png)
+<use Flowcharts/images//illuminate_RGB_LED.png>
+Package pdftex.def Info: Flowcharts/images//illuminate_RGB_LED.png  used on inp
+ut line 549.
+(pdftex.def)             Requested size: 54.97427pt x 227.62204pt.
+
+[46]
+<Flowcharts/images//correct_num.png, id=677, 563.10374pt x 603.25375pt>
+File: Flowcharts/images//correct_num.png Graphic file (type png)
+<use Flowcharts/images//correct_num.png>
+Package pdftex.def Info: Flowcharts/images//correct_num.png  used on input line
+ 558.
+(pdftex.def)             Requested size: 239.02808pt x 256.0748pt.
+ [47 <./Flowcharts/images//correct_num.png>]
+<Flowcharts/images//num_digits.png, id=683, 427.5975pt x 673.51625pt>
+File: Flowcharts/images//num_digits.png Graphic file (type png)
+<use Flowcharts/images//num_digits.png>
+Package pdftex.def Info: Flowcharts/images//num_digits.png  used on input line 
+568.
+(pdftex.def)             Requested size: 216.7669pt x 341.43306pt.
+ [48 <./Flowcharts/images//num_digits.png>]
+<Flowcharts/images//int2str.png, id=689, 437.635pt x 1064.97874pt>
+File: Flowcharts/images//int2str.png Graphic file (type png)
+<use Flowcharts/images//int2str.png>
+Package pdftex.def Info: Flowcharts/images//int2str.png  used on input line 578
+.
+(pdftex.def)             Requested size: 198.76363pt x 483.69684pt.
+ [49 <./Flowcharts/images//int2str.png>]
+<Flowcharts/images//str2int.png, id=696, 420.57124pt x 783.92876pt>
+File: Flowcharts/images//str2int.png Graphic file (type png)
+<use Flowcharts/images//str2int.png>
+Package pdftex.def Info: Flowcharts/images//str2int.png  used on input line 590
+.
+(pdftex.def)             Requested size: 183.17804pt x 341.43306pt.
+ [50 <./Flowcharts/images//str2int.png>]
+<Flowcharts/images//negate_int.png, id=702, 121.45375pt x 332.24126pt>
+File: Flowcharts/images//negate_int.png Graphic file (type png)
+<use Flowcharts/images//negate_int.png>
+Package pdftex.def Info: Flowcharts/images//negate_int.png  used on input line 
+598.
+(pdftex.def)             Requested size: 62.4076pt x 170.71652pt.
+ [51 <./Flowcharts/images//negate_int.png>] (documentation.aux)
+Package rerunfilecheck Info: File `documentation.out' has not changed.
+(rerunfilecheck)             Checksum: 42C5F38798C5B368866A33C34C53D628;4542.
+ ) 
+Here is how much of TeX's memory you used:
+ 5794 strings out of 479618
+ 98080 string characters out of 2865026
+ 392425 words of memory out of 3000000
+ 22700 multiletter control sequences out of 15000+200000
+ 411406 words of font info for 53 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,6n,74p,221b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/jesse/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-sup
+er-ts1.enc}<C:/Users/jesse/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><C:/Users/jesse/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Users/jesse/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/jesse/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jesse/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/jesse/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Users/jesse/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on documentation.pdf (51 pages, 761396 bytes).
+PDF statistics:
+ 762 PDF objects out of 1000 (max. 8388607)
+ 126 named destinations out of 1000 (max. 500000)
+ 885 words of extra memory for PDF output out of 10000 (max. 10000000)
+
